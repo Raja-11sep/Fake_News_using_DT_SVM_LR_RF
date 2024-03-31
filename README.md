@@ -1,3 +1,8 @@
+# Fake News : False or misleading information that is reported as news.
+
+
+
+
 #  Accuracy on test data :
 
 #  Logistic Regression:         0.9827
